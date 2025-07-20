@@ -50,7 +50,7 @@ The dataset includes:
 ├── main.ipynb or main.py       # Main training script
 ├── README.md                   # (You're here)
 └── requirements.txt
-```bash
+```
 
 
 ## 🚀 How to Run
@@ -58,7 +58,7 @@ The dataset includes:
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 2. Connect to Google Drive (if using Colab) and ensure the dataset path is correct.
 3. Run Jupiter Notebook file
