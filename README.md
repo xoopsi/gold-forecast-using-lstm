@@ -45,9 +45,9 @@ The dataset includes:
 ```bash
 📁 project-root/
 ├── data/                       # CSV dataset (not included)
-├── best_lstm_evolution_model.h5
-├── minmax_scaler.pkl
-├── main.ipynb or main.py       # Main training script
+├── best_lstm_evolution_model_1.h5
+├── minmax_scaler_1.pkl
+├── LSTM_Model.ipynb or LSTM_Model.py       # Main training script
 ├── README.md                   # (You're here)
 └── requirements.txt
 ```
