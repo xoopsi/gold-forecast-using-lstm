@@ -50,3 +50,35 @@ The dataset includes:
 ├── main.ipynb or main.py       # Main training script
 ├── README.md                   # (You're here)
 └── requirements.txt
+
+
+
+## 🚀 How to Run
+1. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
+2. Connect to Google Drive (if using Colab) and ensure the dataset path is correct.
+3. Run Jupiter Notebook file
+4. Final results:
+
+Classification Report
+Confusion Matrix
+Trained .h5 model
+Scaler .pkl file
+
+## 📊 Sample Output
+Confusion matrix and classification metrics are printed after training.
+
+## 📜 License
+MIT License
+
+
+## 🤝 Contributions
+Pull requests are welcome! For major changes, please open an issue first.
+
+
+
+
