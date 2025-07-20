@@ -42,8 +42,8 @@
 ```bash
 📁 root/
 ├── data/                      # فایل CSV داده (خارج از مخزن)
-├── best_lstm_evolution_model.h5
-├── minmax_scaler.pkl
-├── main.ipynb یا main.py      # کد اصلی آموزش مدل
+├── best_lstm_evolution_model_1.h5
+├── minmax_scaler_1.pkl
+├── LSTM_Model.ipynb یا LSTM_Model.py      # کد اصلی آموزش مدل
 ├── README.md                  # همین فایل
 └── requirements.txt
